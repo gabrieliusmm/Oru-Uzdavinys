@@ -1,0 +1,25 @@
+label, input {
+	margin-top: 5px;
+	font-size: 2em;
+	margin-bottom: 5px;
+}
+#h1orai {
+	color: white;	
+}
+.weather {
+	width: 500px;
+
+}
+.weather h2{
+	margin-left: 5px;
+}
+.weather p {
+	margin-left: 10px;
+
+}
+p {
+	display: inline-block;
+}
+i {
+	margin-left: 5px;
+}
